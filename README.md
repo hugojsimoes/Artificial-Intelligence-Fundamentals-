@@ -1,6 +1,8 @@
 <p align="center">
   <img src="iabaner.png" alt="Banner" width="100%">
 </p>
+
+
 # 🚀 Projeto de IA — A* e K‑Means
 **Autor:** Hugo Simões  
 **Curso:** Gestão em Tecnologia – Unifecaf  
