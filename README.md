@@ -1,7 +1,5 @@
 
-<p align="center">
-  iabaner.png
-</p>
+iabaner.png
 
 # 🚀 Projeto de IA — A* e K‑Means
 **Autor:** Hugo Simões  
