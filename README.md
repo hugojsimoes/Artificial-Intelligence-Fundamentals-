@@ -7,9 +7,7 @@
 **Autor:** Hugo Simões  
 **Curso:** Gestão em Tecnologia – Unifecaf  
 
-<p align="center">
-  iabaner.png
-</p>
+
 
 Este projeto demonstra duas técnicas clássicas de Inteligência Artificial aplicadas de forma simples:
 
