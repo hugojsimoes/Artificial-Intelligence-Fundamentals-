@@ -1,5 +1,5 @@
 
-**iabaner.png**
+![**iabaner.png**](https://)
 
 # 🚀 Projeto de IA — A* e K‑Means
 **Autor:** Hugo Simões  
