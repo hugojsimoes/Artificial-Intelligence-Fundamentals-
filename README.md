@@ -1,3 +1,4 @@
+iabanner.png
 # 🚀 Projeto de IA — A* e K‑Means
 **Autor:** Hugo Simões  
 **Curso:** Gestão em Tecnologia – Unifecaf  
