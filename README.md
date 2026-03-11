@@ -2,45 +2,53 @@
   <img src="iabaner.png" alt="Banner" width="100%">
 </p>
 
-
-# 🚀 Projeto de IA — A* e K‑Means
+# 🚀 Projeto de IA — A* e K‑Means  
 **Autor:** Hugo Simões  
 **Curso:** Gestão em Tecnologia – Unifecaf  
 
+---
 
+## 🎥 Vídeo de Apresentação (YouTube)
+🔗 https://youtu.be/ajZwFB7NwRQ
 
-Este projeto demonstra duas técnicas clássicas de Inteligência Artificial aplicadas de forma simples:
-
-- **A\*** → encontra o menor caminho em um grafo.  
-- **K‑Means** → agrupa pontos em clusters.  
-
-O objetivo é apresentar conceitos fundamentais usados em logística, rotas e classificação de dados.
+## 📦 Repositório GitHub
+🔗 https://github.com/hugojsimoes/Artificial-Intelligence-Fundamentals-
 
 ---
 
-## 📌 Objetivos do Projeto
+## 📌 Descrição do Projeto
 
-- Aplicar algoritmos clássicos de IA em um problema simples.
-- Demonstrar o funcionamento do **A\*** em um grafo pequeno.
-- Agrupar pontos usando **K‑Means** para simular agrupamento de entregas.
-- Criar um projeto limpo, funcional e fácil de explicar no vídeo da disciplina.
+Este projeto demonstra duas técnicas clássicas de Inteligência Artificial implementadas de forma simples e funcional:
+
+- **A\*** → algoritmo de busca para encontrar o menor caminho em um grafo.  
+- **K‑Means** → algoritmo de aprendizado não‑supervisionado para agrupar pontos em clusters.
+
+O objetivo é apresentar conceitos importantes utilizados em logística, rotas e classificação de dados.
+
+---
+
+## 🎯 Objetivos do Projeto
+
+- Implementar e demonstrar o algoritmo **A\*** em um grafo simples.
+- Implementar o algoritmo **K‑Means** usando NumPy.
+- Criar uma solução prática e fácil de explicar em vídeo.
+- Mostrar como IA clássica pode resolver problemas reais.
 
 ---
 
 ## 🧠 Tecnologias Utilizadas
 
 - **Python 3**
-- **NumPy** (para o K‑Means)
-- Algoritmos implementados manualmente:
-  - A\*
-  - K‑Means (versão minimalista)
+- **NumPy**
+- **A\*** (implementação manual)
+- **K‑Means** (implementação minimalista)
 
 ---
 
 ## ▶️ Como Executar
 
 ### ✔ Requisitos
-- Python 3+
+- Python 3 instalado  
 - NumPy instalado:
 
 ```bash
